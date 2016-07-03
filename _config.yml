@@ -1,0 +1,28 @@
+name: Tsukuru Fors Daily Musings
+favicon: null
+layout_spectrum: 0.18756151548586786
+typography_spectrum: 0.7277970286086202
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9827484858687967
+  lightness: 0.044058982050046325
+  saturation: 0.5301797154825181
+  rhythmicContrast: 0.9163896725513041
+purpose: []
